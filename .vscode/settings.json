@@ -1,0 +1,14 @@
+{
+	"files.associations": {
+		"iosfwd": "cpp",
+		"iterator": "cpp",
+		"vector": "cpp",
+		"ostream": "cpp",
+		"stack": "cpp",
+		"__config": "cpp",
+		"functional": "cpp",
+		"list": "cpp",
+		"__bit_reference": "cpp",
+		"algorithm": "cpp"
+	}
+}
